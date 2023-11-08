@@ -1,5 +1,11 @@
 ### How to use
 
+RUN `nano setup.sh`
+
+Copy bash script in setup.sh
+
+RUN `chmod +x setup.sh`
+
 Run `./setup.sh`
 
 ```bash
